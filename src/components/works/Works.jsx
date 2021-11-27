@@ -1,10 +1,8 @@
 import "./works.scss"
 export default function Works() {
     return (
-        <div>
-            <div className="works">
-                
-            </div>
+        <div className="works">
+            works
         </div>
     )
 }
